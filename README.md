@@ -1,1 +1,1 @@
-# VictorWalker
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+my.+name+is+victor+;Welcome+to+my+Github;I'm+an+aspiring+technoligist+;Hope+you+enjoy.)](https://git.io/typing-svg)
