@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=67F72B&background=FFFFFF00&width=435&lines=Hi+there%2C+my+name+is+victor+;Welcome+to+my+Github+fellow+cyborgs;I'm+an+aspiring+technoligist+born+and+raised+in+New+York+City+;Hope+you+enjoy.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=67F72B&background=FFFFFF00&width=435&lines=Hi+there%2C+my+name+is+victor+;Welcome+to+my+Github+fellow+cyborgs;I'm+an+aspiring+technoligist+born+;and+raised+in+New+York+City+;Hope+you+enjoy.)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Also a cyborg</h1>
 <h3 align="center">Passionate in Cyber Security. Is your network protected?</h3>
