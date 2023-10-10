@@ -15,7 +15,8 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-  - Add your certification details here.
+  - <a href="https://www.credly.com/badges/57d4a9ad-19aa-4088-bb6b-16b5e0984124" target="_blank">AWS Certified Cloud Practitioner</a> ![AWS Certified Cloud Practitioner](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/certification/aws-certified-cloud-practitioner.png)
+</p>
 </p>
 
 <h3 align="left">About Me:</h3>
